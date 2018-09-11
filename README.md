@@ -38,7 +38,7 @@
 
 * [Unity](https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg) - Official Tutorials / Training Day **(Highly Recommaned)**
 
-* [World of Zero](htts://www.youtube.com/channel/UCJKLCjeujQj-d3JjsbVtkJw) - Mesh / Voxel
+* [World of Zero](https://www.youtube.com/channel/UCJKLCjeujQj-d3JjsbVtkJw) - Mesh / Voxel
 
 ### Game Mechanics
 
