@@ -9,6 +9,7 @@
 (★★★☆☆) - 一般
 (★★★★☆) - 推荐
 (★★★★★) - 极力推荐
+(★★★★★★) - 牛逼
 ~~~
 
 ## Contents Navigator
@@ -111,7 +112,7 @@
 - (?) [Holistic3d](https://www.youtube.com/channel/UCp_SOgsRYdLfIEWLjM62ZJg/videos) - Basic / Step by Step
 - (?) [inScope Studios](https://www.youtube.com/channel/UCyVsCcTte38YC9CxJtw3hBQ) - Basic / Step by Step / Game Make Series
 - (★★★★☆) [Jimmy Vegas](https://www.youtube.com/channel/UCRMXHQ2rJ9_0CHS7mhL7erg) - Unity基础 / 游戏实战 / 游戏机制实践
-- (★★★★★) [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - Unity基础 / Shader / 粒子系统 / 角色动画 / 实战开发 **（干货、系统）**
+- (★★★★★★) [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - Unity基础 / Shader / 粒子系统 / 角色动画 / 实战开发 **（干货、系统）**
 - (★★★★★) [Mark Brown](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw) - 游戏机制分析 / 游戏设计 / 游戏理论 **（干货、风趣）**
 - (★★★★☆) [Mirza](https://www.youtube.com/channel/UC5c5JgFyiFXKXCVRh2DsRJg) - 视觉特效 / 粒子系统 / Unity基础
 - (?) [N3K EN](https://www.youtube.com/channel/UCtQPCnbIB7SP_gM1Xtv8bDQ) - Mechanics / Basic Game Make Concept
@@ -131,6 +132,48 @@
 - (★★★★☆) [机核网](https://space.bilibili.com/4079592/#/) - 游戏机制分析 / 游戏理论 / 游戏鉴赏 **（仅推荐混核理论专栏）**
 
 ## Website
+
+- (★★★★★) [Unity API Document](https://docs.unity3d.com/ScriptReference/index.html) - 程序必备的Unity官方宝典
+- (★★★★★) [Unity Learning Tutorials](https://unity3d.com/cn/learn/tutorials) - Unity官方经典教程
+- (★★★★★) [Unity Asset Store](https://assetstore.unity.com/) - Unity官方资源商店，适合小型团队查找使用别人做好的轮子
+- (★★★☆☆) [Unity基础 -- Git版本的源代码管理工具使用](https://www.jianshu.com/p/fa06a5004d06) - 命令行端的git使用、适合理解git版本管理原理
+- (★★★☆☆) [Shadertoy](https://www.shadertoy.com/) - Shader展示和资源查找
+- (★★★★★) [雨凇MOMO的Blog](https://www.xuanyusong.com/) - 浅显易懂而又全面的中文Unity图文教程
+- (★★★★★★) [Catlike Coding's Blog](https://catlikecoding.com/unity/tutorials/) - 基础全覆盖且有深度的Unity英文博客教程，可以锻炼游戏相关的英文水平（很有必要）
+- (?) [3dmotive](http://3dmotive.com/) - 好像是建模相关的
+- (?) [Open Game Art](https://opengameart.org/) - 开源美术资源
+- (★★★★☆) [Bobby Ross's Blog](http://bobbyross.com/tutorials/) - 游戏关卡设计理论原型
+- (★★★★☆) [GDC](http://www.gdconf.com/) - GDC官网
+- (★★★★☆) [Pixel Shader Editor](http://pixelshaders.com/editor/) - 在线Shader预览
+- (★★☆☆☆) [GLSL Sandbox](http://glslsandbox.com/) - GLSL着色语言程序的分享和在线预览
+- (★★★★☆) [Alan ZZucconi's Blog](https://www.alanzucconi.com/tutorials/) - 一个像素游戏作者的博客，内有图形学相关的理论教学
+- (?) [Alastair Aitchison's Blog](https://alastaira.wordpress.com/) - 一个游戏开发者的博客
+- (★★★☆☆) [Book of Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - 图形学相关的开源书
+- (★★★★☆) [The Book of Shaders](https://thebookofshaders.com/) - 介绍Shader的开源书
+- (★★★☆☆) [Spine](http://zh.esotericsoftware.com/) - 2D骨骼动画软件Spine的官网
+- (★★★★☆) [Blender](https://www.blender.org/) - 开源3D建模软件的官网
+- (★★★★★) [Explained Visually](http://setosa.io/ev/) - 通过动图可视化一些数学概念
+- (★★★★★) [搬运&翻译——调色教程：色彩协调理论](http://yz1992.lofter.com/post/1cac0915_60d6f57?sharefrom=lofter-android-5.9.6.1&shareto=qq) - 色彩入门基础
+- (★★★★☆) [Rikard's Articles](https://zevendesign.com/author/zevenadmin/) - 色彩、PS相关的文章
+- (★★★☆☆) [Snake Hill Games](http://www.snakehillgames.com/) - 一个像素画处理软件的博客
+- (★★★★★) [Per-Texel lighting? (not per-vertex or per-pixel)](https://gamedev.stackexchange.com/questions/125437/per-texel-lighting-not-per-vertex-or-per-pixel) - 一篇关于逐方块像素Texel而不是逐像素Pixel光照实现的回答
+- (★★★★☆) [Constructing a Pixel Art Shader](https://medium.com/@thedeivore/constructing-a-pixel-art-shader-3753762f6b90) - 如何给像素画加Shader
+- (★★★★★) [Shaders Laboratory](http://www.shaderslab.com/shaders.html) - 一个比较全面的Shader效果实现的集合网站，可惜它的视频教程的英语充满了咖喱味
+- (★★★★★) [状态机：史上最棒的机制](https://www.indienova.com/u/lazyeo/blogread/5444) - 关于状态机的介绍和实现的翻译搬运
+- (★★★★★) [Hexagonal Grids](Hexagonal Grids) - 六边形地图网格的介绍
+- (★★☆☆☆) [【Unity】sqlite数据库在Unity中的使用](https://blog.csdn.net/sinat_20559947/article/details/54585228) - 简单的一篇入门文章
+- (★★★★☆) [Minecraft Mod制作教程](https://fmltutor.ustc-zzzz.net/0-%E7%BB%AA%E8%AE%BA.html) - 教如何使用Forge和Java写MC Mod
+- (★★★★★) [Ludum Dare](http://ldjam.com/) - Ludum Dare Game Jam官网，会时不时举办网上Game Jam
+- (★★★★★) [MagicaVoxel](https://ephtracy.github.io/) - 3D体素建模渲染免费软件
+- (★★★☆☆) [IGN](https://www.ign.com/) - 某游戏资讯网站
+- (★★★☆☆) [Color Hex](https://www.color-hex.com/) - 配色网站
+- (★★★★☆) [フリー音楽素材/魔王魂](https://maoudamashii.jokersounds.com/) - 魔王魂免费音乐素材资源
+- (★★★☆☆) [云风的 BLOG](https://blog.codingnow.com/) - 一个程序猿的博客，有游戏开发的内容
+- (★★★★★) [Global Game Jam](https://globalgamejam.org/) - GGJ官网
+- (★★★★★) [Unity With VS Code](https://code.visualstudio.com/docs/other/unity) - 使用Visual Studio Code 编辑Unity脚本的教程
+- (★★★☆☆) [ＲＰＧツクールシリーズ](http://www.geocities.co.jp/Milano-Cat/3319/muz/002.html) - 日式RPG免费怪物素材（个人制作）
+- (★★★☆☆) [ぴぽや](http://blog.pipoya.net/) - 一个日式美术素材网站
+- (★★★★☆) [ふりーむ！素材ライブラリ](http://stock.freem.ne.jp/) - 日语配音/音乐素材网站
 
 ## Others
 
