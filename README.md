@@ -11,25 +11,25 @@
 (★★★★★) - 极力推荐
 ~~~
 
-## Contents
+## Contents Navigator
 
-- [Basic Learning Map](#Basic-Learning-Map)
-  - [C# & Unity's .dll (C#语法&.Net库&Unity库)](#C#-&-Unity's-.dll-(C#语法&.Net库&Unity库))
-    - [Data Struct (代码数据结构设计)](#Data-Struct-(代码数据结构设计))
-    - [Algorithm (代码逻辑和算法)](#Algorithm-(代码逻辑和算法))
-  - [Editor (Unity引擎界面)](#Editor-(Unity引擎界面))
-  - [VFX (Visual Effect 视觉特效)](#VFX-(Visual-Effect-视觉特效))
-    - [Shader (Shader图形渲染器)](#Shader-(Shader图形渲染器))
-    - [Particle System (粒子系统)](#Particle-System-(粒子系统))
-  - [Animation & Animator (角色动画控制)](#Animation-&-Animator-(角色动画控制))
-  - [Music (音乐)](#Music-(音乐))
-  - [Plugin (插件)](#Plugin-(插件))
-  - [AI & Mechine Learning (人工智能和机器学习)](#AI-&-Machine-Learning-(人工智能和机器学习))
-  - [Game Throey (游戏机制理论)](#Game-Throey-(游戏机制理论))
-- [YouTuber](#YouTuber)  
-- [Bilibili Up](#Bilibili-Up)
-- [Website](#Website)
-- [Others](#Others)
+- [Basic Learning Map](#basic-learning-map)
+  - [C# & Unity's .dll (C#语法&.Net库&Unity库)](#c--unitys-dll-c语法net库unity库)
+    - [Data Struct (代码数据结构设计)](#data-struct-代码数据结构设计)
+    - [Algorithm (代码逻辑和算法)](#algorithm-代码逻辑和算法)
+  - [Editor (Unity引擎界面)](#editor-unity引擎界面)
+  - [VFX (Visual Effect 视觉特效)](#vfx-visual-effect-视觉特效)
+    - [Shader (Shader图形渲染器)](#shader-shader图形渲染器)
+    - [Particle System (粒子系统)](#particle-system-粒子系统)
+  - [Animation & Animator (角色动画控制)](#animation--animator-角色动画控制)
+  - [Music (音乐)](#music-音乐)
+  - [Plugin (插件)](#plugin-插件)
+  - [AI & Mechine Learning (人工智能和机器学习)](#ai--machine-learning-人工智能和机器学习)
+  - [Game Throey (游戏机制理论)](#game-throey-游戏机制理论)
+- [YouTuber](#youtuber)  
+- [Bilibili Up](#bilibili-up)
+- [Website](#website)
+- [Others](#others)
 
 ## Basic Learning Map
 
