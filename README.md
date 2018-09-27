@@ -87,7 +87,7 @@ Unity角色动画控制
 
 ## Others
 
-* (★★★★★) [Unity编辑器快捷键.pdf](https://github.com/IIzzaya/game-developer-learning-resource/Unity%20Shortcuts%20Cheat%20Sheet.pdf) (By Brackeys)
+* (★★★★★) [Unity编辑器快捷键.pdf](https://github.com/IIzzaya/game-developer-learning-resource/blob/master/Unity%20Shortcuts%20Cheat%20Sheet.pdf) (By Brackeys)
 
 ~~~txt
 更正："Create object as a child" should be "Shift-Alt-N" instead of "Ctrl-Shift-N".
