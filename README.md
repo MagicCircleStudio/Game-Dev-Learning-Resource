@@ -174,6 +174,10 @@
 - (★★★☆☆) [ＲＰＧツクールシリーズ](http://www.geocities.co.jp/Milano-Cat/3319/muz/002.html) - 日式RPG免费怪物素材（个人制作）
 - (★★★☆☆) [ぴぽや](http://blog.pipoya.net/) - 一个日式美术素材网站
 - (★★★★☆) [ふりーむ！素材ライブラリ](http://stock.freem.ne.jp/) - 日语配音/音乐素材网站
+- (★★★★★) [Guest Blogger's Blog](https://developer.amazon.com/zh/blogs/appstore/author/Guest+Blogger) - 介绍如何绘制像素风的美术和粒子特效
+- (★★★★★) [Cyangmou's Art Gallery](https://www.deviantart.com/cyangmou/gallery/?tdsourcetag=s_pctim_aiomsg) - 一些像素画的图片教程
+- (★★★★★★) [Mmotion Periodic Table](http://foxcodex.html.xdomain.jp/index.html) - 一个超酷炫做工精良的基础动态效果的展示网站
+- (★★★★★) [Shader Forge](http://acegikmo.com/shaderforge/nodes/?lang=zh_cn) - 查看基础的Shader光照和概念的网站
 
 ## Others
 
