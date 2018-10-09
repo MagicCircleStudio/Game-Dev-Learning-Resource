@@ -148,7 +148,7 @@
 - (★★☆☆☆) [GLSL Sandbox](http://glslsandbox.com/) - GLSL着色语言程序的分享和在线预览
 - (★★★★☆) [Alan ZZucconi's Blog](https://www.alanzucconi.com/tutorials/) - 一个像素游戏作者的博客，内有图形学相关的理论教学
 - (?) [Alastair Aitchison's Blog](https://alastaira.wordpress.com/) - 一个游戏开发者的博客
-- (★★★☆☆) [Book of Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - 图形学相关的开源书
+- (★★★★★★) [Book of Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - 图形学相关的开源书，各种公式的圣经宝典
 - (★★★★☆) [The Book of Shaders](https://thebookofshaders.com/) - 介绍Shader的开源书
 - (★★★☆☆) [Spine](http://zh.esotericsoftware.com/) - 2D骨骼动画软件Spine的官网
 - (★★★★☆) [Blender](https://www.blender.org/) - 开源3D建模软件的官网
@@ -178,6 +178,21 @@
 - (★★★★★) [Cyangmou's Art Gallery](https://www.deviantart.com/cyangmou/gallery/?tdsourcetag=s_pctim_aiomsg) - 一些像素画的图片教程
 - (★★★★★★) [Mmotion Periodic Table](http://foxcodex.html.xdomain.jp/index.html) - 一个超酷炫做工精良的基础动态效果的展示网站
 - (★★★★★) [Shader Forge](http://acegikmo.com/shaderforge/nodes/?lang=zh_cn) - 查看基础的Shader光照和概念的网站
+- (★★★☆☆) [hibit's Blog](https://deux-hibi.hatenablog.com/) - 一位偏图像的日本游戏开发者
+- (★★★☆☆) [Houdini](https://www.sidefx.com/) - 一个特效制作软件的官网
+- (★★★☆☆) [GLOWFISH INTERACTIVE](http://glowfishinteractive.com/devblog/) - 一个工作室的官网Blog，有份享一个Disolve的特效
+- (★★★★★) [itch.io](https://itch.io/) - 国外比较著名的独立游戏平台，时不时有Game jams举办
+- (★★★★★) [Patreon](https://www.patreon.com/) - 著名的达芬奇式鼓励创作者创作和分享的网站，上面有不错的游戏创作者分享各种教程，部分是免费的
+- (★★★★★) [テラシュールブログ](http://tsubakit1.hateblo.jp/) - 一位日本Unity游戏开发者的博客，上面有分享很多日文的Unity开发经验和教程
+- (★★★★☆) [Linden Reid's Blog](https://lindenreid.wordpress.com/) - 图形相关的教程
+- (★★★★★) [VFX Staples: Shape, Color, and Motion](https://80.lv/articles/vfx-staples-shape-color-and-motion/) - 一篇有关特效设计的文章
+- (★★★★☆) [Qiita](https://qiita.com/) - 有点像日本的Medium，上面有很多日文的Unity或游戏制作人分享的文章
+- (★★★★☆) [Compute Shaderでライフゲーム](https://qiita.com/aa_debdeb/items/7c9c35d14b0264964a4e) - 在Unity中使用Shader计算来实现生命游戏
+- (★★★☆☆) [Vector Graphics](https://docs.unity3d.com/Packages/com.unity.vectorgraphics@1.0/manual/index.html) - Unity的一个package的介绍，有关矢量图和矢量运算的
+- (★★★★☆) [UnityをC#で超入門してみる #0　超目次](https://qiita.com/hiroyuki_hon/items/c4da01e1c94bbba2c071) - Qiita上一个有关Unity中C#的教程系列，日文，内容比较全面
+- (★★★★★) [Recreating a Zelda-inspired toon shading in ShaderGraph](https://connect.unity.com/p/zelda-inspired-toon-shading-in-shadergraph) - Unity Connect上一篇关于制作塞尔达风格的Shader的介绍，英文
+- (★★★★★) [Art That Moves: Creating Animated Materials with Shader Graph](https://blogs.unity3d.com/cn/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/) - 使用Shader实现卡通的海浪、飘动的旗帜的教程
+- (★★★★★) [Unity Editor Tips](http://tsubakit1.hateblo.jp/entry/2015/04/21/031048) - 一些Unity编辑器的快捷键教学，有动图
 
 ## Others
 
