@@ -193,6 +193,7 @@
 - (★★★★★) [Recreating a Zelda-inspired toon shading in ShaderGraph](https://connect.unity.com/p/zelda-inspired-toon-shading-in-shadergraph) - Unity Connect上一篇关于制作塞尔达风格的Shader的介绍，英文
 - (★★★★★) [Art That Moves: Creating Animated Materials with Shader Graph](https://blogs.unity3d.com/cn/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/) - 使用Shader实现卡通的海浪、飘动的旗帜的教程
 - (★★★★★) [Unity Editor Tips](http://tsubakit1.hateblo.jp/entry/2015/04/21/031048) - 一些Unity编辑器的快捷键教学，有动图
+- (★★★★★★) [Kenney Game Assets](https://www.kenney.nl/assets) - 一个超棒的免费美术资源站，偏卡通和Low Poly风格
 
 ## Others
 
