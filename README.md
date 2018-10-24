@@ -194,6 +194,36 @@
 - (★★★★★) [Art That Moves: Creating Animated Materials with Shader Graph](https://blogs.unity3d.com/cn/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/) - 使用Shader实现卡通的海浪、飘动的旗帜的教程
 - (★★★★★) [Unity Editor Tips](http://tsubakit1.hateblo.jp/entry/2015/04/21/031048) - 一些Unity编辑器的快捷键教学，有动图
 - (★★★★★★) [Kenney Game Assets](https://www.kenney.nl/assets) - 一个超棒的免费美术资源站，偏卡通和Low Poly风格
+- (★★★★☆) [游戏开发-CSDN](https://www.csdn.net/nav/game) - CSDN的游戏开发专区
+- (★★★★★) [Spelunky Generator Lessons](http://tinysubversions.com/spelunkyGen/) - 洞穴探险(Spelunky)的地图生成相关教学
+- (★★★☆☆) [HLSL | Microsoft Docs](https://docs.microsoft.com/en-us/windows/desktop/direct3dhlsl/dx-graphics-hlsl) - 微软的HLSL语言的文档，Shader开发必备
+- (★★★★★) [Ray Marching Demo For Beginnner | Shadertoy](https://www.shadertoy.com/view/4dKyRz) - Shadertoy上一个演示Ray Marching光线照射技术原理的Demo
+- (★★★★☆) [Unity入門 | dotinstall](https://dotinstall.com/lessons/basic_unity_v2#) - 日本小哥的Unity入门教学视频（日文听起来很带感）
+- (★★★☆☆) [Shader Bits Blog](https://shaderbits.com/blog) - HLSL和UE4的开发博客
+- (★★★☆☆) [kode80's Blog](http://kode80.com/blog/) - Shader相关
+- (★★☆☆☆) [unityroom](https://unityroom.com/) - 一个日本的Unity的类似itch.io的网站
+- (★★★☆☆) [Bolt](https://ludiq.io/bolt/features) - Unity插件，将脚本编程节点可视化，有免费版本。
+- (★★★★☆) [Creating Animated Materials with Shader Graph | Unity Blog](https://blogs.unity3d.com/cn/2018/10/05/art-that-moves-creating-animated-materials-with-shader-graph/) - 一篇讲使用Shader Graph进行顶点移动来作为动画的博文
+- (★★★★☆) [Shader Graph Example Library | Github](https://github.com/UnityTechnologies/ShaderGraph_ExampleLibrary) - 官方的Shader Graph的开源例子
+- (★★★☆☆) [Shader Graph Custom Node API | Unity Blog](https://blogs.unity3d.com/cn/2018/03/27/shader-graph-custom-node-api-using-the-code-function-node/) - Shader Graph的自定义节点
+- (★★★★☆) [CGプロダクション年鑑2018](http://file.morisawatcs.com/43855/index.html) - 2018日本CG生产年鉴电子书
+- (★★★★☆) [Materialize](http://www.boundingboxsoftware.com/materialize/index.php) - 一个将图片转化为材质贴图或者反过来的三维模型材质工具软件
+- (★★★★☆) [Fast Subsurface Scattering](https://www.alanzucconi.com/2017/08/30/fast-subsurface-scattering-1/) - 快速表面材质散射实现的博文
+- (★★★★★) [Alan Zucconi's Blog](https://www.alanzucconi.com/) - 一个研究Shader相关的博主
+- (★★★★★) [Raymarching Distance Fields | adrian's soapbox](http://flafla2.github.io/2016/10/01/raymarching.html) - 一篇介绍Raymarching的文章
+- (★★★★★) [iquilezles](http://iquilezles.org/www/index.htm) - 开创Shadertoy的大佬的文章集
+- (★★★★★) [Signed Distance Field | 知乎](https://zhuanlan.zhihu.com/p/26217154) - 中文的介绍SDF的文章
+- (★★★★★) [顾路的博客](https://gulu-dev.com/) - 一个中文作者的游戏博客，干货很多
+- (★★★★★★) [GDC Vault](https://gdcvault.com/) - 历年GDC演讲均有记录，部分需要年费
+- (★★★★★) [Ronja's Shader Tutorials](https://www.ronja-tutorials.com/) - Shader新手的教程
+- (?) [THUNDERCLUCK!](https://thundercluck-blog.tumblr.com/tagged/tutor%20tuesday) - 美术教程的博客
+- (?) [50 shaders prototypes](https://nordeus.com/blog/art/50-shaders-of-forge-prototyping-with-shader-forge/) - 50钟Shader，虽然是用Shader Forge写的，实现可以借鉴
+- (★★★★★) [Box2D](https://box2d.org/) - 一个流行的2D物理引擎
+- (?) [iforce2d](https://www.iforce2d.net/) - Box2D的教程
+- (?) [Emanuele Feronato's Blog](https://www.emanueleferonato.com/) - Box2D教学的作者，主要是web游戏程序员和游戏设计相关的分享
+- (★★★★★) [LiquidFun](http://google.github.io/liquidfun/) - 基于Box2D的2D粒子C++库，Google开源
+- (★★★★★★) [How to Make a Roguelike](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/) - 一篇很不错的Roguelike类型游戏开发的入门介绍，附视频，同时该作者的博客也很不错
+- (?) [Roguelike Dev | reddit](https://www.reddit.com/r/roguelikedev/) - Roguelike游戏开发社区
 
 ## Others
 
