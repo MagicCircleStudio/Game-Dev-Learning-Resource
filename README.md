@@ -15,7 +15,8 @@
 ## Contents Navigator
 
 - [Basic Learning Map](#basic-learning-map)
-  - [C# & Unity's .dll (C#语法&.Net库&Unity库)](#c--unitys-dll-c语法net库unity库)
+  - [Programming (编程)](#programming-编程)
+    - [C# & Unity's .dll (C#语法&.Net库&Unity库)](#c--unitys-dll-c语法net库unity库)
     - [Data Struct (代码数据结构设计)](#data-struct-代码数据结构设计)
     - [Algorithm (代码逻辑和算法)](#algorithm-代码逻辑和算法)
   - [Editor (Unity引擎界面)](#editor-unity引擎界面)
@@ -27,6 +28,7 @@
   - [Plugin (插件)](#plugin-插件)
   - [AI & Mechine Learning (人工智能和机器学习)](#ai--machine-learning-人工智能和机器学习)
   - [Game Throey (游戏机制理论)](#game-throey-游戏机制理论)
+  - [Game Design (游戏设计)](#game-design-游戏设计)
 - [YouTuber](#youtuber)  
 - [Bilibili Up](#bilibili-up)
 - [Website](#website)
@@ -36,7 +38,9 @@
 
 按一个游戏的所需的各个内容部分分类（不分先后），个人按教学和实践每个类别下进行排名推荐
 
-### C# & Unity's .dll (C#语法&.Net库&Unity库)
+### Programming (编程)
+
+#### C# & Unity's .dll (C#语法&.Net库&Unity库)
 
 #### Data Struct (代码数据结构设计)
 
@@ -99,6 +103,28 @@
 ### AI & Machine Learning (人工智能和机器学习)
 
 ### Game Throey (游戏机制理论)
+
+### Game Design (游戏设计)
+
+#### 游戏心理学
+
+人格主义分类 :
+
+- (★★★★★) [Picture] [Studio Carreras's Philographics](https://studiocarreras.com/philographics/) - 用图片的形式介绍一些哲学主义的概念
+
+#### Procedual Content Generation (连续性内容生成)
+
+Everything Procedural (万物皆连续) :
+
+- (★★★★☆) [Website] [Everything Procedural Conference](http://www.everythingprocedural.com/) - 关于连续性内容生成领域的作者的分享会
+- (★★★★★) [Project] [Prop Generator](https://guerric-hache.itch.io/prop-generator) - 可导出模型的low poly风格的模型生成软件项目
+- (★★☆☆☆) [Article] [Procedurally Generatring the islands of lost sea](https://www.moddb.com/games/lost-sea/features/procedurally-generating-the-islands-of-lost-sea) - 如何生成海岛
+- Wave Function Collaspe (波函数坍缩) :
+  - (★★★★★★) [Github] [mxgmn/WaveFunctionCollaspe](https://github.com/mxgmn/WaveFunctionCollapse) - WFC的概念提出和介绍
+  - (★★★★★★) [Video] [EPC2018 - Oskar Stalberg - Wave Function Collaspe in Bad North](https://www.youtube.com/watch?v=0bcZb-SsnrA)
+  - (★★★★★) [Github] [marian42/wavefunctioncollaspe](https://github.com/marian42/wavefunctioncollapse) - Unity中很酷炫的3D实现WFC项目
+  - (★★★★☆) [Website] [DeBroglie](https://boristhebrave.github.io/DeBroglie/articles/index.html) - WFC算法的C#实现库之一
+  - (★★★★☆) [Project] [unity-wave-funcion-collapse](https://selfsame.itch.io/unitywfc) - Unity中实现WFC的项目
 
 ## YouTuber
 
@@ -224,6 +250,28 @@
 - (★★★★★) [LiquidFun](http://google.github.io/liquidfun/) - 基于Box2D的2D粒子C++库，Google开源
 - (★★★★★★) [How to Make a Roguelike](https://www.gridsagegames.com/blog/2018/10/how-to-make-a-roguelike/) - 一篇很不错的Roguelike类型游戏开发的入门介绍，附视频，同时该作者的博客也很不错
 - (?) [Roguelike Dev | reddit](https://www.reddit.com/r/roguelikedev/) - Roguelike游戏开发社区
+- (?) [Multi-Res Modeling Group](http://www.multires.caltech.edu/index.htm) - 计算机图形学一个研究小组的文章网站
+- (?) [GOG COM](https://www.gog.com/) - 一个游戏贩售平台
+- (?) [Construct](https://www.scirra.com/) - 一款2D游戏引擎
+- (★★★★☆) [VERTEX Books](https://gumroad.com/ryanhawkins) - 一个游戏美术期刊杂志
+- (★★★★★) [Oskar Stålberg's Blog](http://oskarstalberg.tumblr.com/) - 一位研究连续性内容生成的游戏开发者，作品有《Bad North》，其美术也很出色
+- (★★☆☆☆) [Cube Brush](https://cubebrush.co/) - 美术资源网站
+- (★★☆☆☆) [Free3D](https://free3d.com/) - 免费3D模型资源站
+- (★★★☆☆) [Ragi" Building A Game About Indian Myths](https://80.lv/articles/raji-building-a-game-about-indian-myths-part-2/) - 酷炫的角色移动的实现
+- (★★★★☆) [Graveyard Keeper: How the graphics effects are made](http://www.gamasutra.com/blogs/SvyatoslavCherkasov/20181023/329151/Graveyard_Keeper_How_the_graphics_effects_are_made.php) - 《Graveyard Keeper》中的像素光影效果的实现
+- (★★★★★) [80 Level](https://80.lv/) - 游戏技术和信息门户
+- (★★★★☆) [Cem Yuksel's Blog](http://www.cemyuksel.com/) - 美术建模与渲染相关
+- (★★★☆☆) [3dnchu](http://3dnchu.com/) - 美术相关资讯站
+- (★★★★☆) [游戏编程模式](https://gpp.tkchu.me/) - 在线书籍
+- (★★★★☆) [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - 一个读书笔记合辑，涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容
+- (★★★★☆) [浅墨的游戏编程Blog](https://blog.csdn.net/poem_qianmo) - 游戏开发相关的内容
+- (★★★★★) [金属，塑料，傻傻分不清](https://zhuanlan.zhihu.com/p/21961722?refer=highwaytographics) - 知乎上的介绍光照质感的文章
+- (★★★★★) [基于物理着色](https://zhuanlan.zhihu.com/p/21376124) - 介绍BRDF
+- (★★★★☆) [JPG's Blog](http://jpgrenier.org/index.html) - 3D程序员有关渲染方面的文章
+- (★★★★☆) [River Editor](https://80.lv/articles/river-editor-water-simulation-in-real-time/) - 通过波动方程模拟水体
+- (★★☆☆☆) [WHy some things are darker when wet](https://fermatslibrary.com/s/why-some-things-are-darker-when-wet#email-newsletter) - 介绍为什么物体表面潮湿的时候会变黑的现象
+- (★★★★★) [Wave - by Oskar Stålberg](http://oskarstalberg.com/game/wave/wave.html) - 演示WFC的交互游戏
+
 
 ## Others
 
