@@ -19,16 +19,17 @@
     - [C# & Unity's .dll (C#语法&.Net库&Unity库)](#c--unitys-dll-c语法net库unity库)
     - [Data Struct (代码数据结构设计)](#data-struct-代码数据结构设计)
     - [Algorithm (代码逻辑和算法)](#algorithm-代码逻辑和算法)
-  - [Editor (Unity引擎界面)](#editor-unity引擎界面)
+  - [Unity Editor (Unity引擎界面)](#editor-unity引擎界面)
+    - [Plugin (插件)](#plugin-插件)
   - [VFX (Visual Effect 视觉特效)](#vfx-visual-effect-视觉特效)
     - [Shader (Shader图形渲染器)](#shader-shader图形渲染器)
     - [Particle System (粒子系统)](#particle-system-粒子系统)
   - [Animation & Animator (角色动画控制)](#animation--animator-角色动画控制)
   - [Music (音乐)](#music-音乐)
-  - [Plugin (插件)](#plugin-插件)
   - [AI & Mechine Learning (人工智能和机器学习)](#ai--machine-learning-人工智能和机器学习)
   - [Game Throey (游戏机制理论)](#game-throey-游戏机制理论)
   - [Game Design (游戏设计)](#game-design-游戏设计)
+  - [2D](#2d)
 - [YouTuber](#youtuber)  
 - [Bilibili Up](#bilibili-up)
 - [Website](#website)
@@ -105,6 +106,10 @@
 ### Game Throey (游戏机制理论)
 
 ### Game Design (游戏设计)
+
+### 2D
+
+- (★★★★★) [Website] [GAME UX MASTER GUIDE](https://gameuxmasterguide.com/) - 来自EA和微软的业界老手创立的游戏设计的用户体验相关的文章
 
 #### 游戏心理学
 
@@ -271,11 +276,29 @@ Everything Procedural (万物皆连续) :
 - (★★★★☆) [River Editor](https://80.lv/articles/river-editor-water-simulation-in-real-time/) - 通过波动方程模拟水体
 - (★★☆☆☆) [WHy some things are darker when wet](https://fermatslibrary.com/s/why-some-things-are-darker-when-wet#email-newsletter) - 介绍为什么物体表面潮湿的时候会变黑的现象
 - (★★★★★) [Wave - by Oskar Stålberg](http://oskarstalberg.com/game/wave/wave.html) - 演示WFC的交互游戏
+- (★★★★★) [CEDEC](http://cedec.cesa.or.jp/) - 日本的游戏开发者大会，类似于GDC
+- (★★★★☆) [4gamer](https://www.4gamer.net/) - 日本游戏资讯论坛
+- (★★★★☆) [Game Watch - 業界動向](https://game.watch.impress.co.jp/category/industry/) - 日本游戏业界资讯
+- (★★★★★) [WebStack](http://webstack.cc/cn/index.html) - 设计师网址导航
 
+## Blog
+
+- (★★★★☆) [周明倫‘s Blog](http://www.allenchou.net/) - 偏基础和工具向的游戏编程教学
+- (★★★★★★) [Keijiro's Dev Log]([https://radiumsoftware.tumblr.com](https://radiumsoftware.tumblr.com/)) - Unity Japan的TA大师
+
+## Articles
+
+### 塞尔达传说
+
+- [Youtube] [Breaking Conventions with The Legend of Zelda](https://www.youtube.com/watch?v=QyMsF31NdNc) - 旷野之息团队在GDC 2017上的分享，有关游戏机制与美术
+- [Articles] [旷野之息中的场地关卡设计(繁中)](https://gnn.gamer.com.tw/detail.php?sn=152054) [(日文)](https://www.4gamer.net/games/341/G034168/20170901120/) - 开放世界中的吸引力法则的运用，让玩家有一种自由的探索感
+- [Articles] [旷野之息团队的项目管理(日文)](https://game.watch.impress.co.jp/docs/news/1078888.html)
 
 ## Others
 
 - (★★★★★) [Unity编辑器快捷键.pdf](https://github.com/IIzzaya/game-developer-learning-resource/blob/master/Unity%20Shortcuts%20Cheat%20Sheet.pdf) (By Brackeys)
+
+
 
 ~~~txt
 更正："Create object as a child" should be "Shift-Alt-N" instead of "Ctrl-Shift-N".
